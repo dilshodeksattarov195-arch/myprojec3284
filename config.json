@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseeync",
+        "uuid": 24777780,
+        "checksum": "i0up"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
